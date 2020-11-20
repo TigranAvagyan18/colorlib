@@ -1,6 +1,6 @@
 {
-  "name": "colorlib",
-  "version": "1.0.0",
+  "name": "colorious",
+  "version": "1.0.3",
   "description": "Node module for interacting with colors",
   "main": "index.js",
   "scripts": {
