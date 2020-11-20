@@ -1,0 +1,23 @@
+{
+  "name": "colorlib",
+  "version": "1.0.0",
+  "description": "Node module for interacting with colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigranAvagyan18/colorlib.git"
+  },
+  "keywords": [
+    "color",
+    "colorlib"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigranAvagyan18/colorlib/issues"
+  },
+  "homepage": "https://github.com/TigranAvagyan18/colorlib#readme"
+}
